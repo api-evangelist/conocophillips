@@ -110,6 +110,8 @@ apis:
       - Build custom ESG reports for investor analysis
       - Compare ConocoPhillips sustainability metrics over time
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/conocophillips
   - type: Website
     url: https://www.conocophillips.com
   - type: Investor Relations
