@@ -111,6 +111,8 @@ apis:
       - Build custom ESG reports for investor analysis
       - Compare ConocoPhillips sustainability metrics over time
 common:
+  - type: DomainSecurity
+    url: security/conocophillips-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/conocophillips
   - type: Website
@@ -129,6 +131,8 @@ common:
     url: https://www.conocophillips.com/operations/
   - type: Contact
     url: https://www.conocophillips.com/about-us/contact-us/
+  - url: https://www.conocophillips.com/news-media/archive/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
