@@ -22,11 +22,6 @@ ConocoPhillips is a leading global exploration and production company, headquart
 
 ## APIs
 
-### ConocoPhillips Vendor Relations Portal
-
-The ConocoPhillips vendor relations digital channel where suppliers check invoice status, manage purchase orders via the GEP portal, and collaborate via the Taulia Supplier Portal. ConocoPhillips does not currently publish a public REST API for vendor data; integration is mediated through the underlying GEP and Taulia platforms.
-
-**Human URL:** [https://vendors.conocophillips.com/](https://vendors.conocophillips.com/)
 
 #### Tags
 
@@ -51,11 +46,6 @@ The ConocoPhillips vendor relations digital channel where suppliers check invoic
 - Acknowledge purchase orders via GEP
 - Manage early-payment options through Taulia
 
-### ConocoPhillips LNG Technology and Licensing
-
-ConocoPhillips licenses its Optimized Cascade liquefaction process and related LNG technologies to third-party LNG project developers.
-
-**Human URL:** [https://www.conocophillips.com/operations/lng-technology-licensing/](https://www.conocophillips.com/operations/lng-technology-licensing/)
 
 #### Tags
 
@@ -76,11 +66,6 @@ ConocoPhillips licenses its Optimized Cascade liquefaction process and related L
 - License LNG liquefaction technology for new projects
 - Access engineering support for cascade-process plants
 
-### ConocoPhillips Custom Sustainability Report Builder
-
-A web-based tool that lets analysts and stakeholders assemble custom sustainability reports from ConocoPhillips's published ESG data.
-
-**Human URL:** [https://www.conocophillips.com/sustainability/](https://www.conocophillips.com/sustainability/)
 
 #### Tags
 
