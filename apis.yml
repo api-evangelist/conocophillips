@@ -31,7 +31,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/conocophillips/refs/heads/main/apis.yml
 created: '2026-03-21'
 modified: '2026-07-25'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 kind: company
 tags:
   - Crude Oil
