@@ -1,7 +1,9 @@
 ---
 title: Schlumberger Announces Deployment of Reservoir ...
 url: https://www.slb.com/newsroom/press-release/2022/pr-2022-03-07-conocophillips-delfi
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ConocoPhillips" press release artificial intelligence'
 position: 4
 source: serpapi-google

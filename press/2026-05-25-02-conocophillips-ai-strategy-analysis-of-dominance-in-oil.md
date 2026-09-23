@@ -1,7 +1,9 @@
 ---
 title: 'ConocoPhillips'' AI Strategy: Analysis of Dominance in Oil, ...'
 url: https://www.klover.ai/conocophillips-ai-strategy-analysis-of-dominance-in-oil-gas/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ConocoPhillips" press release artificial intelligence'
 position: 2
 source: serpapi-google
