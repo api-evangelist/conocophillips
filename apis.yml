@@ -57,6 +57,12 @@ tags:
   - Fortune 100
 apis: []
 common:
+  - type: Plans
+    url: plans/conocophillips-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/conocophillips-rate-limits.yml
+  - type: FinOps
+    url: finops/conocophillips-finops.yml
   - type: DomainSecurity
     url: security/conocophillips-domain-security.yml
   - type: LinkedIn
