@@ -1,4 +1,4 @@
-# ConocoPhillips (conocophillips)
+# ConocoPhillips
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,103 +66,96 @@
 
 ConocoPhillips is a leading global exploration and production company, headquartered in Houston, Texas, that is uniquely equipped to deliver reliable, responsibly produced oil and natural gas. The company operates in more than a dozen countries with conventional and unconventional crude oil, natural gas, LNG, and natural gas liquids assets. ConocoPhillips does not publish public developer APIs; its external digital surface is organized around an investor relations portal, a vendor relations portal (powered by third-party platforms such as GEP and Taulia), an LNG technology and licensing program, and a custom sustainability report builder.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/conocophillips/refs/heads/main/apis.yml)
+**Areas:** Crude Oil · Energy · Exploration and Production · LNG · Natural Gas · Oil and Gas · Sustainability · Upstream · Vendor Portal · Fortune 100
 
-## Scope
+## ConocoPhillips on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **Classification:** Company
+Everything profiled for ConocoPhillips is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/conocophillips/](https://apis.io/providers/conocophillips/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Crude Oil, Energy, Exploration and Production, LNG, Natural Gas, Oil and Gas, Sustainability, Upstream, Vendor Portal
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Conocophillips Domain Security](https://apis.io/security/conocophillips/conocophillips-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Procurement, Supplier Portal, Vendor
+- [Conocophillips Plans Pricing](https://apis.io/plans/conocophillips/conocophillips-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://vendors.conocophillips.com/)
-- [GEP Portal](https://www.gep.com/)
-- [Taulia](https://www.taulia.com/)
+Published request limits.
 
-#### Features
+- [Conocophillips Rate Limits](https://apis.io/rate-limits/conocophillips/conocophillips-rate-limits/)
 
-- Invoice Status
-- Purchase Order Acknowledgement
-- ACH/EFT Payment Setup
-- Supplier Communication
+#### FinOps (1)
 
-#### Use Cases
+What the API costs to run, by operation.
 
-- Look up invoice status as a ConocoPhillips supplier
-- Acknowledge purchase orders via GEP
-- Manage early-payment options through Taulia
+- [Conocophillips Finops](https://apis.io/finops/conocophillips/conocophillips-finops/)
 
+## Where to find this API
 
-#### Tags
-
-- Licensing, LNG, Technology
-
-#### Properties
-
-- [Documentation](https://www.conocophillips.com/operations/lng-technology-licensing/)
-
-#### Features
-
-- Optimized Cascade Process
-- LNG Plant Design Support
-- Licensing Agreements
-
-#### Use Cases
-
-- License LNG liquefaction technology for new projects
-- Access engineering support for cascade-process plants
-
-
-#### Tags
-
-- ESG, Reporting, Sustainability
-
-#### Properties
-
-- [Documentation](https://www.conocophillips.com/sustainability/)
-
-#### Features
-
-- Custom Report Builder
-- ESG Data Library
-- Downloadable Reports
-
-#### Use Cases
-
-- Build custom ESG reports for investor analysis
-- Compare ConocoPhillips sustainability metrics over time
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.conocophillips.com)
-- [Investor Relations](https://www.conocophillips.com/investors/)
-- [Vendor Portal](https://vendors.conocophillips.com/)
-- [Sustainability](https://www.conocophillips.com/sustainability/)
-- [News](https://www.conocophillips.com/news-media/)
-- [Careers](https://www.conocophillips.com/careers/)
-- [Operations](https://www.conocophillips.com/operations/)
-- [Contact](https://www.conocophillips.com/about-us/contact-us/)
+- [Blog](https://www.conocophillips.com/news-media/archive/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 5.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/conocophillips/](https://apis.io/providers/conocophillips/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ConocoPhillips: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/conocophillips/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
